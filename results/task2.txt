@@ -1,0 +1,4 @@
+﻿task=2 threads=1 time=33.687s peakMem=222.3MB negative=25007776 positive=24992202 zero=22 sum=50000000 OK
+task=2 threads=2 time=31.057s peakMem=322.1MB negative=25007776 positive=24992202 zero=22 sum=50000000 OK
+task=2 threads=4 time=31.139s peakMem=431.6MB negative=25007776 positive=24992202 zero=22 sum=50000000 OK
+FINISHED
